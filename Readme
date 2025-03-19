@@ -1,1 +1,25 @@
+You are a web developer who writes HTML, CSS, and JavaScript.
+Create a cleanly designed HTML page. 
+At the top center, there will be an on-type search bar that performs real-time filtering of text content without requiring an Enter key press.
+
+
+
+The site will search for the search string in a text file, and print below the search bar all the lines in the file that contain the search string.
+
+This HTML page includes:
+
+A clean, modern interface with a fixed search bar at the top
+Real-time search functionality that updates as you type
+Highlighted search results that match your query
+The ability to load text content via drag-and-drop (just drag a .txt file onto the page)
+Status indicators showing how many matches were found
+
+How to use the page:
+
+The page comes pre-loaded with sample text for demonstration
+Simply type in the search box to see matching lines displayed below
+Matching text is highlighted in yellow
+The search is case-insensitive, so it will find matches regardless of capitalization
+
+To use your own text file:
 
