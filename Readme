@@ -37,3 +37,14 @@ update the HTML file name without the word 'voters'.
 update the file location in the fetch function to: https://raw.githubusercontent.com/cherizli/JsonSearch/refs/heads/main/283.json
 Change the Result Display to lines.
 ------------------------------------------------------------------------------
+The code works as expected. Still need to update the code on the following issues:
+Change the title above the search bar to "איתורון של ירון".
+On the result output Reverse the order of fields in the fieldMap array to:
+City ID (ci), Address (a), Voter ID (v), Last Name (l), First Name (f)
+------------------------------------------------------------------------------
+The code works as expected. Still need to update the code on the following issues:
+change the result display so the "Name section" will display on the right side of the fieldMap array.
+
+
+
+
